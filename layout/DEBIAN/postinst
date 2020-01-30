@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "profiled 데몬 프로세스를 종료시키는 중... "
+killall -9 profiled
+echo "MCPatch 설치 완료!"

@@ -1,0 +1,9 @@
+Package: kr.xsf1re.mcpatch
+Name: MCPatch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make allow installing profile Anything regardless of targetDeviceType!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
